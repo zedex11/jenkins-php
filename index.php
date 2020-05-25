@@ -23,7 +23,7 @@ else
 </head>
 <body>
     <section class="congratulations">
-        <h1>Congratulations! <br><font color=gold>YOU DO THAT MAN!</h1>
+        <h1>Privet ya SHAHRUZ <br><font color=gold>LUBLU HOZIAUSHKU SVOEGO <br><font color=red> a marinu duru ne ochen </h1>
         <p>Your AWS Elastic Beanstalk <em>PHP</em> application is now running on your own dedicated environment in the AWS&nbsp;Cloud</p>
         <p>You are running PHP version <?= phpversion() ?></p>
     </section>
@@ -44,6 +44,8 @@ else
             <li><a href="http://aws.amazon.com/php">PHP developer center</a></li>
             <li><a href="https://github.com/aws/aws-sdk-php">AWS SDK for PHP on GitHub</a></li>
         </ul>
+        <h2> Eto ya takaya</h2>
+        <img src="shahruz.jpg">
     </section>
 
     <!--[if lt IE 9]><script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script><![endif]-->
